@@ -1,0 +1,14 @@
+{
+    "libs": {
+        "options": {
+            "destPrefix": "app/js/vendor",
+            "clean": false
+        },
+        "files": {
+            "three.min.js": "threejs/build/three.min.js",
+            "lodash.min.js": "lodash/lodash.min.js",
+            "tween.min.js": "threejs/examples/js/libs/tween.min.js",
+            "OrbitControls.js": "threejs/examples/js/controls/OrbitControls.js"
+        }
+    }
+}
